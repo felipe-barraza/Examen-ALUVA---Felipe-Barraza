@@ -1,12 +1,16 @@
-# ALUVA | Ropa y Elementos de Protección Personal
+<img width="1805" height="1002" alt="image" src="https://github.com/user-attachments/assets/635955ae-8992-4ea9-a795-3f3b52b8b9a9" /># ALUVA | Ropa y Elementos de Protección Personal
 
 Sitio web responsive desarrollado para **ALUVA**, enfocado en la presentación de ropa técnica, vestuario corporativo, elementos de protección personal (EPP), catálogo de productos y servicios de personalización.
 
 ## Sitio publicado
 
-**Netlify:** `REEMPLAZAR_AQUI_CON_LA_URL_DE_NETLIFY`
+**Netlify:** https://superb-blancmange-74a5eb.netlify.app
 
-> Después de desplegar el proyecto en Netlify, reemplazar el texto anterior por la URL pública entregada por Netlify antes de la entrega final.
+> ## Sitio web desplegado
+
+La página se encuentra disponible en Netlify:
+
+https://superb-blancmange-74a5eb.netlify.app
 
 ## Vista previa
 
